@@ -41,7 +41,8 @@ body {
   display: flex;
   flex-direction: column;
   margin: 56px auto 32px auto;
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   padding: 0 24px;
 }
 /* switch */
